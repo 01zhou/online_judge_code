@@ -9,7 +9,7 @@ using namespace std;
 class EllysPairs
 {
 public:
-  int getDifference(vector <int> knowledge)
+	int getDifference(vector <int> knowledge)
 	{
 		int size = knowledge.size();
 		sort(knowledge.begin(), knowledge.end());
