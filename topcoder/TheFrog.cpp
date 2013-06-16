@@ -8,7 +8,7 @@ using namespace std;
 class TheFrog
 {
 private:
-  double abs(double x)
+	double abs(double x)
 	{
 		return x>0?x:-x;
 	}
