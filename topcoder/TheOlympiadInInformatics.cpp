@@ -8,7 +8,7 @@ using namespace std;
 class TheOlympiadInInformatics
 {
 public:
-  int find(vector <int> sums, int k)
+	int find(vector <int> sums, int k)
 	{
 		int min = 0;
 		int max = (1<<30);
