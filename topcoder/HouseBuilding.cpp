@@ -9,7 +9,7 @@ using namespace std;
 class HouseBuilding
 {
 public:
-  int getMinimum(vector <string> area)
+	int getMinimum(vector <string> area)
 	{
 		int min_e = -1;
 		for(char h='0'; h<='8'; h++)
