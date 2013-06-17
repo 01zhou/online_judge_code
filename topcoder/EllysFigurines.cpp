@@ -8,7 +8,7 @@ using namespace std;
 class EllysFigurines
 {
 public:
-  int getMoves(vector <string> board, int R, int C)
+	int getMoves(vector <string> board, int R, int C)
 	{
 		int w = board[0].size();
 		int h = board.size();
