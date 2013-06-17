@@ -9,7 +9,7 @@ using namespace std;
 class EllysReversals
 {
 public:
-  int getMin(vector <string> words)
+	int getMin(vector <string> words)
 	{
 		for(int i=0; i<words.size(); i++)
 		{
