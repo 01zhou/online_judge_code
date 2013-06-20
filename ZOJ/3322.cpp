@@ -3,7 +3,7 @@
 #include <iostream.h>
 main()
 {
-    int t;
+	int t;
 	int y1,m1,d1,y2,m2,d2,ans;
 	cin>>t;
 	while(t--)
