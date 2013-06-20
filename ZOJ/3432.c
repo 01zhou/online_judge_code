@@ -3,7 +3,7 @@
 #include <stdio.h>
 main()
 {
-  int n;
+	int n;
 	char sock[7];
 	while(scanf("%d",&n)!=EOF)
 	{
