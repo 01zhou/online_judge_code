@@ -3,7 +3,7 @@
 #include <stdio.h>
 int calcF(int a,int b)
 {
-  int ans=0,c=a^b;
+	int ans=0,c=a^b;
 	while(c>0)
 	{
 		ans+=c%2;
