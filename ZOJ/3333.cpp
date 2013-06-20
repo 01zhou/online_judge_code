@@ -3,7 +3,7 @@
 #include <iostream.h>
 main()
 {
-  int n,p,pa,pb;
+	int n,p,pa,pb;
 	cin>>n;
 	while(n--)
 	{
