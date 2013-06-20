@@ -3,7 +3,7 @@
 #include <iostream.h>
 main()
 {
-  int i,t;
+	int i,t;
 	cin>>t;
 	char psw[21];
 	while(t--)
