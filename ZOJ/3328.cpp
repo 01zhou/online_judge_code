@@ -3,7 +3,7 @@
 #include <iostream.h>
 main()
 {
-  int n;
+	int n;
 	for(cin>>n;n;cin>>n)
 		cout<<n/2<<endl;
 }
