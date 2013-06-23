@@ -8,7 +8,7 @@ using namespace std;
 class XorGame
 {
 public:
-  int play(string S, string E)
+	int play(string S, string E)
 	{
 		if(S.compare(E)==0)
 			return 0;
