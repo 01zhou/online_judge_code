@@ -14,7 +14,7 @@ using namespace std;
 class Msg
 {
 public:
-  string str;
+	string str;
 	int param;
 	int pr;
 	bool operator() (const Msg& m1, const Msg& m2) const
