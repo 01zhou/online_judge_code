@@ -6,7 +6,7 @@ import sys
 
 t = int(sys.stdin.readline())
 for i in range(t):
-  [n, m] = list(map(int, sys.stdin.readline().split()))
+ 	[n, m] = list(map(int, sys.stdin.readline().split()))
 	J = list(map(int, sys.stdin.readline().split()))
 	if n==m:
 		print(sum(J))
