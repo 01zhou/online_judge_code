@@ -12,7 +12,7 @@ int null[2000];
 
 int main(int argc, char* argv[])
 {
-  int n, m;
+ 	int n, m;
 	int t1,t2,t3;
 	int eid;
 	while(fscanf(stdin, "%d %d", &n, &m)!=EOF)
