@@ -7,7 +7,7 @@ using namespace std;
 class Problem
 {
 public:
-  int p;
+	int p;
 	int v;
 };
 
