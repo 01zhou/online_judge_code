@@ -10,7 +10,7 @@ import sys
 
 t = int(sys.stdin.readline())
 for i in range(t):
-  c = int(sys.stdin.readline())
+	c = int(sys.stdin.readline())
 	q = int(c/25)
 	c %= 25
 	d = int(c/10)
