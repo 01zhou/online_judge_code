@@ -1,3 +1,11 @@
+#!python
+
+#ZOJ 2433
+#LANG: Python
+#Run Time: 470
+#Run Memory: 4288
+#User Name: 01zhou
+
 import sys;
 
 t = int(sys.stdin.readline())
