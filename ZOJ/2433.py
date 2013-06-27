@@ -2,7 +2,7 @@ import sys;
 
 t = int(sys.stdin.readline())
 for i in range(t):
-  if i!=0:
+	if i!=0:
 		print
 
 	sys.stdin.readline()
